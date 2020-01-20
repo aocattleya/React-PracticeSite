@@ -1,3 +1,7 @@
-<h2 align="center">React　Practice</h2>
+<h1 align="center">React Site</h1>
 
-![React](https://user-images.githubusercontent.com/39142850/72733403-2867f680-3bdb-11ea-9a59-5ca7120cea45.gif)
+![React](https://user-images.githubusercontent.com/39142850/72734402-f0fa4980-3bdc-11ea-9a8f-6d1ad3b153aa.gif)
+
+## Reference
+
+### [👉 Progate](https://prog-8.com)
